@@ -6,3 +6,5 @@ This C++ program allows users to input a binary array, verify its validity, flip
 ❌ Rejects non-binary inputs with colored error messages
 
 🔁 Flips the entire binary array after validation
+
+the key feature is it gives the least number of flips and if the array chosen contains only 1's or 0's it returns -1
